@@ -6,7 +6,6 @@
 
 const linkmenu = document.getElementsByClassName('link')[0]
 const hammenu = document.querySelector('.hamburger')
-
 linkmenu.style.display = 'none'
 
 hammenu.addEventListener('click', () => {
